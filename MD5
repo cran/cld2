@@ -1,10 +1,11 @@
-b6dcf9f000854e17f9425ebaccee2e10 *DESCRIPTION
-ac17cda70eb77e6d80b02745bfbe7350 *NAMESPACE
-9c4110620ed1161be04a4f12cea0dc0c *R/RcppExports.R
-7cde392b1d8e0e7562f42802b7b85a18 *R/cld2.R
-aa0befbc1379f5137d78d571149b16a9 *man/cld2.Rd
+183b10b2e4fe78c08f8f68cf2c699e9d *DESCRIPTION
+b8d0e414cd471e1890b1ac97579cc513 *NAMESPACE
+f44285393cfb8e4565d820e8a77fdfa8 *NEWS
+472c1725c0e0d1811aeafd7675f53461 *R/RcppExports.R
+99eb532f2d120fa21da44712e61554be *R/cld2.R
+3e08086c801d477cb025c303bf3964ec *man/cld2.Rd
 9e8d00119655651abb32e4fe3a23568c *src/Makevars
-571bc764f3da9344ffdfddf8fc46d5e1 *src/RcppExports.cpp
+588bc1b135ba5f594015ec4d01374f88 *src/RcppExports.cpp
 b9b66ed8af6499f6bb2ee7b65a0b7b42 *src/libcld2/internal/cld2_dynamic_compat.h
 a90da96079ce48a7cc0b35ae1a4b0ba1 *src/libcld2/internal/cld2_generated_cjk_compatible.cc
 20bac10bd4593e676f79b4f64b89e952 *src/libcld2/internal/cld2_generated_deltaoctachrome.cc
@@ -57,6 +58,6 @@ c1cfee82f242576ed074f299c9223174 *src/libcld2/internal/utf8statetable.cc
 9069e1def3d1d748ecbcdacae44a005b *src/libcld2/internal/utf8statetable.h
 945b51810830d0ebece19c34d8c9c895 *src/libcld2/public/compact_lang_det.h
 a2422ccca431e2d4432e1934e588b5ee *src/libcld2/public/encodings.h
-7f8468e60ca95db4e9d516d8147e4e07 *src/wrapper.cpp
+f0631bb53244d78d9c209b810d2ecc29 *src/wrapper.cpp
 d7ffca5fb290d10ddae69d52bf7307bc *tests/testthat.R
-06f807680e5852b4ee0be039b5bdeb2b *tests/testthat/test-detect.R
+1dd8a7f133a2429d40e73315e5e8cd5b *tests/testthat/test-detect.R
