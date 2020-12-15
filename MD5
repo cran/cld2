@@ -1,8 +1,8 @@
-d8bb6cf2647057a40de26df9c11cdf21 *DESCRIPTION
+9c499b8907bf5a001a9641dfa85d5273 *DESCRIPTION
 b8d0e414cd471e1890b1ac97579cc513 *NAMESPACE
-f44285393cfb8e4565d820e8a77fdfa8 *NEWS
+1566e734b37b153fb254caf32eff53ec *NEWS
 3288d787aac4e00bec9c26bd2c8a4590 *R/RcppExports.R
-99eb532f2d120fa21da44712e61554be *R/cld2.R
+e54cd55cef422becd17fddafef7258bc *R/cld2.R
 3e08086c801d477cb025c303bf3964ec *man/cld2.Rd
 99ec13aef680fe948944de0ea802f3d1 *src/Makevars
 bf20166f6bd9836417ec98e989675e03 *src/RcppExports.cpp
@@ -22,7 +22,7 @@ b1ad4f514f16e595934b63d81af2ff00 *src/libcld2/internal/cldutil_shared.h
 3e4b055b75b7b85e97aeaabd410836ec *src/libcld2/internal/compact_lang_det.cc
 6d850f704071f028b96605a8d6257f2a *src/libcld2/internal/compact_lang_det_hint_code.cc
 6a21c39dc7c3c9d635b5d3d5bc3e2b81 *src/libcld2/internal/compact_lang_det_hint_code.h
-74ddd8e2d3d80d41f0627c589e23825d *src/libcld2/internal/compact_lang_det_impl.cc
+981385f3b83042a44ace7c61e4358e21 *src/libcld2/internal/compact_lang_det_impl.cc
 0fd5e63f1e28b5b1be83dad93ffaf53a *src/libcld2/internal/compact_lang_det_impl.h
 63874ca78aff08afdb9dba6b0dfb0b94 *src/libcld2/internal/debug.cc
 f9793214a1a421c695b6208218bdd13b *src/libcld2/internal/debug.h
@@ -58,6 +58,6 @@ c1cfee82f242576ed074f299c9223174 *src/libcld2/internal/utf8statetable.cc
 9069e1def3d1d748ecbcdacae44a005b *src/libcld2/internal/utf8statetable.h
 945b51810830d0ebece19c34d8c9c895 *src/libcld2/public/compact_lang_det.h
 a2422ccca431e2d4432e1934e588b5ee *src/libcld2/public/encodings.h
-f0631bb53244d78d9c209b810d2ecc29 *src/wrapper.cpp
+b5e6b636739c6c683199b276506fd63d *src/wrapper.cpp
 d7ffca5fb290d10ddae69d52bf7307bc *tests/testthat.R
-58334d3690e5c2d27f6be47467ec71d0 *tests/testthat/test-detect.R
+3f73ae2e53c5387adca618d938277dd0 *tests/testthat/test-detect.R
