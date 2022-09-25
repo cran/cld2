@@ -1,11 +1,11 @@
-9c499b8907bf5a001a9641dfa85d5273 *DESCRIPTION
+fa0e498ac9eb0ee0b5d096ea8ecb2c70 *DESCRIPTION
 b8d0e414cd471e1890b1ac97579cc513 *NAMESPACE
-1566e734b37b153fb254caf32eff53ec *NEWS
+11cbac6d7663acdfa93e37b0d8775435 *NEWS
 3288d787aac4e00bec9c26bd2c8a4590 *R/RcppExports.R
 e54cd55cef422becd17fddafef7258bc *R/cld2.R
 3e08086c801d477cb025c303bf3964ec *man/cld2.Rd
 99ec13aef680fe948944de0ea802f3d1 *src/Makevars
-bf20166f6bd9836417ec98e989675e03 *src/RcppExports.cpp
+9d98c587826a75fd0ea72eb58a39e0b6 *src/RcppExports.cpp
 b9b66ed8af6499f6bb2ee7b65a0b7b42 *src/libcld2/internal/cld2_dynamic_compat.h
 a90da96079ce48a7cc0b35ae1a4b0ba1 *src/libcld2/internal/cld2_generated_cjk_compatible.cc
 20bac10bd4593e676f79b4f64b89e952 *src/libcld2/internal/cld2_generated_deltaoctachrome.cc
@@ -44,7 +44,7 @@ e9d4e3e2f6be8ba760d67dd2a4ceb52d *src/libcld2/internal/lang_script.h
 180ec3d636f42c24c6aece4fa542f188 *src/libcld2/internal/offsetmap.h
 3af184fad7b7144126056c855ac931f0 *src/libcld2/internal/port.h
 1860c7f028e9cc2f2a634d5f7296c4a5 *src/libcld2/internal/scoreonescriptspan.cc
-28ebab1ee3ca4689ad0ecdd032461032 *src/libcld2/internal/scoreonescriptspan.h
+475308da07931662062c5f628fc77952 *src/libcld2/internal/scoreonescriptspan.h
 6d9005fc9ac5a983370250096d9330a0 *src/libcld2/internal/scoreutf8text.cc
 480ceb58b34d996457716f5669c119ae *src/libcld2/internal/stringpiece.h
 d95a9fd7c3de09fd059ae97e5d24d138 *src/libcld2/internal/tote.cc
