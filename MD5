@@ -1,10 +1,10 @@
-a457e5488419e90b5aa48f628ebc03b8 *DESCRIPTION
+7c05ff7ed10868ec1476cda96c5f304f *DESCRIPTION
 b8d0e414cd471e1890b1ac97579cc513 *NAMESPACE
 161778205d5b983ff8d8725caedc5ba4 *NEWS
 3288d787aac4e00bec9c26bd2c8a4590 *R/RcppExports.R
 e54cd55cef422becd17fddafef7258bc *R/cld2.R
 3e08086c801d477cb025c303bf3964ec *man/cld2.Rd
-b4313d5c23aa38f1c51cbd94309a6f29 *src/Makevars
+ff464c849793a4c0bb896f5b438a9667 *src/Makevars
 9d98c587826a75fd0ea72eb58a39e0b6 *src/RcppExports.cpp
 b9b66ed8af6499f6bb2ee7b65a0b7b42 *src/libcld2/internal/cld2_dynamic_compat.h
 a90da96079ce48a7cc0b35ae1a4b0ba1 *src/libcld2/internal/cld2_generated_cjk_compatible.cc

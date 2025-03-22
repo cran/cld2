@@ -1,7 +1,7 @@
 Package: cld2
 Type: Package
 Title: Google's Compact Language Detector 2
-Version: 1.2.5
+Version: 1.2.6
 Authors@R: c(
     person("Jeroen", "Ooms", ,"jeroenooms@gmail.com", role = c("aut", "cre"),
       comment = c(ORCID = "0000-0002-4035-0289")),
@@ -22,9 +22,9 @@ LinkingTo: Rcpp
 RoxygenNote: 6.0.1
 Suggests: testthat, readtext, cld3
 NeedsCompilation: yes
-Packaged: 2024-10-03 14:12:25 UTC; jeroen
+Packaged: 2025-03-22 19:58:34 UTC; jeroen
 Author: Jeroen Ooms [aut, cre] (<https://orcid.org/0000-0002-4035-0289>),
   Dirk Sites [cph] (Author of CLD2 C++ library)
 Maintainer: Jeroen Ooms <jeroenooms@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-10-04 12:40:09 UTC
+Date/Publication: 2025-03-22 20:30:17 UTC
